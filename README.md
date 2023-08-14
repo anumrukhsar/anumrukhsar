@@ -11,8 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/anum55925530" target="blank"><img src="https://img.shields.io/twitter/follow/anum55925530?logo=twitter&style=for-the-badge" alt="anum55925530" /></a> </p>
 
-- 🔭 I’m currently working on **Qi mobile (ISC)**
-
 - 🌱 I’m currently learning **Android, Flutter**
 
 - 💬 Ask me about **Android, Flutter, Reactnative**
